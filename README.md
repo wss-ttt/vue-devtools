@@ -1,5 +1,5 @@
 # Vue-Devtools-
 直接使用
-x-special/nautilus-clipboard
-copy
-file:///home/wangss/data2/(003)%E6%88%AA%E5%9B%BE%E7%AC%94%E8%AE%B0/87.png
+1.chrome://extensions/  
+2.选择 '加载已解压的扩展程序'  
+3.选中整个 chrome文件夹即可  
